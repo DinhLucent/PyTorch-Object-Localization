@@ -1,14 +1,14 @@
-# PyTorch-Object-Localization
+# Deep Learning With Pytorch Object Localization
 
-A deep learning project implementing object localization using the PyTorch framework. This repository features models designed to identify and draw bounding boxes around specific objects in images.
+Object localization tasks using PyTorch and customized CNNs.
 
-## ┬┐ Features
-- **Bounding Box Regression**: Implementation of localization heads for CNNs.
-- **Intersection over Union (IoU)**: Metrics for evaluating localization accuracy.
-- **Real-time Inference**: Optimized scripts for identifying objects in camera feeds.
+## Features
+- Course notes and highlights
+- Programming assignment solutions
+- Conceptual frameworks
 
-## ┬┐ Project Structure
-- `notebooks/`: Core implementation and training logic.
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2022 (Updated 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
